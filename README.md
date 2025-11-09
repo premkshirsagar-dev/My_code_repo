@@ -1,1 +1,1 @@
-<h1> all basic level of free project and practical </h1>
+<h1> All basic level of free project and practical </h1>

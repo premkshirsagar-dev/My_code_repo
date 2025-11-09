@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(){
+
+
+register int  i=0;
+for(i=1;i<11;i++){
+
+    printf("%d\n",i);
+    
+}
+return 0;
+
+}
